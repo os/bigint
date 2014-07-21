@@ -30,7 +30,6 @@ public:
 	//performs a multiplication between the current big_integer and the other one.
 	//returns a big_integer.
 
-	
  	big_integer div(big_integer other);
 	//performs integer division between the current big_integer and the other one.
 	//returns a big_integer.
